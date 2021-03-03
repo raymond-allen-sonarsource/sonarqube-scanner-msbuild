@@ -1,0 +1,2 @@
+C:\Source\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csprojAssemblyReference.cache
+C:\Source\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csproj.CoreCompileInputs.cache
